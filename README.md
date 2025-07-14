@@ -1,2 +1,3 @@
 # Credit-Risk-Analyst
 A Credit Risk Analysis project to assess and predict the likelihood of loan defaults using data-driven techniques
+This project focuses on credit risk analysis by using historical financial and transactional data to evaluate the creditworthiness of borrowers. It involves data cleaning, exploratory data analysis (EDA), feature engineering, and applying machine learning models to predict the likelihood of loan default. The goal is to help financial institutions minimize risk by making informed lending decisions based on predictive analytics. The project demonstrates key concepts such as classification algorithms, model evaluation metrics, and handling imbalanced datasets.
